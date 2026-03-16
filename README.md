@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ☁️ Cloud Containerization & DevOps Learning Journey
 
 This repository documents my hands-on learning and experiments in  
@@ -37,3 +38,6 @@ This repository contains:
 ---
 
 ⭐ Feel free to explore the experiments and follow my learning journey!
+=======
+# Containerization-and-devops
+>>>>>>> b5522356e650d08d0f58dd8a7750fb470806cb9e
