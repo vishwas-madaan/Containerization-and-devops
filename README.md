@@ -14,7 +14,7 @@ This repository documents my hands-on learning and experiments in
 
 ---
 ## Assignments 
--[Assignment1 - Containerized Web Application with PostgreSQL using Docker Compose and Macvlan/Ipvlan](./assignments/assignment-1/Readme.md)
+-[Assignment1 - Containerized Web Application with PostgreSQL using Docker Compose and Macvlan/Ipvlan](./assignments/assignment1/Readme.md)
 
 
 
