@@ -20,7 +20,7 @@ Host controls data.
 ```bash
 docker run -d \
   --name nginx-container \
-  -v /home/dhairya/html:/usr/share/nginx/html \
+  -v /home/vishu/html:/usr/share/nginx/html \
   nginx
 ```
 ![Create Container](1.png)
