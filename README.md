@@ -22,6 +22,7 @@ This repository documents my hands-on learning and experiments in
 ## 📚 Theory Classes
 
 - [Class 2](./THEORY/Class2/dockerfile/hello.java)
+- [Class 10](./THEORY/Class10/Readme.md)
 
 
 
