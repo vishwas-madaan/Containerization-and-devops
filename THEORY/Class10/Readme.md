@@ -1,4 +1,4 @@
-<h2 align='center'>Data Management in Docker with <b>bind mount<b> & <b>tempfs<b></h2>
+<h2 align='center'>Data Management in Docker with <b>bind mount</b> & <b>tempfs</b></h2>
 
 <hr>
 
@@ -11,7 +11,7 @@ Host controls data.
 
 <hr>
 
-<h6 align='center'>Bind Mount</h6>
+### bind mount
 
 <hr>
 
@@ -59,11 +59,11 @@ docker rm -f nginx-container
 ![Delete Container](5.png)
 
 
-<>
 
 <hr>
 
-<h6 align='center'>tempfs</h6>
+### tempfs
+
 
 <hr>
 
@@ -76,7 +76,7 @@ docker run -d \
   --mount type=tmpfs,target=/app/cache \
   nginx
 ```
-![Runn Container via tempfs](6.png)
+![Run Container via tempfs](6.png)
 
 
 **Step-7:- Verify Container**
