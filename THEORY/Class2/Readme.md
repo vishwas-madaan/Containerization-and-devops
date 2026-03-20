@@ -19,14 +19,17 @@ public class Hello {
         System.out.println("Hello Docker");
     }
 }
-## Dockerfile
-```bash
+
+
+### Dockerfile
+
 FROM openjdk:11
 COPY hello.java /app/
 WORKDIR /app
 RUN javac hello.java
 CMD ["java", "Hello"]
-```
+
+
 ##  Steps to Run
 ```bash
 Build Docker image:
