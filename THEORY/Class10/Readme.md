@@ -56,7 +56,8 @@ docker run -d \
 ```bash
 docker rm -f nginx-container
 ```
-![Delete Container]/5.png)
+![Delete Container](5.png)
+
 
 <>
 
