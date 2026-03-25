@@ -8,7 +8,9 @@ Verify it is running, modify it, scale it, and debug it.
 
   **Step 1: Create Deployment**
   ```bash
+
   kubectl create deployment hello-web --image=httpd
+  
   ```
   ![deployment](1.png)
   
@@ -63,8 +65,11 @@ Verify it is running, modify it, scale it, and debug it.
   ![edit1](11.png)
 **Step 10: Restart Deployment**
   ```bash
+
   kubectl rollout restart deployment hello-web
+
   ```
+
   ![restart](12.png)
   **Step 11: Verify Pods Again**
   ```bash
