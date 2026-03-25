@@ -24,6 +24,7 @@ This repository documents my hands-on learning and experiments in
 - [Class 2](./THEORY/Class2/Readme.md)
 - [Class 10](./THEORY/Class10/Readme.md)
 - [Class 15](./THEORY/Class%2015/)
+-[Class assignment](./THEORY/Class%20assignment/)
 
 
 
