@@ -81,10 +81,6 @@ Verify it is running, modify it, scale it, and debug it.
   kubectl port-forward pod/hello-web-c7495c66-n5fzw 8081:80
   ```
   ![port](15.png)
-  **URL**
-  ```bash
-  http://localhost:8081
-  ```
   ![url](16.png)
   **Step 14: Scale Deployment**
   ```bash
